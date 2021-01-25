@@ -1,0 +1,65 @@
+﻿@model Apoteka.Models.kontakt
+@{
+    Layout = "~/Views/Shared/_MojLayout.cshtml";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />  
+    <title>View</title>
+</head>
+<body>
+    <div class="container"> 
+   @using (Html.BeginForm("KontaktForma", "Home", FormMethod.Post, new
+   {
+       @class =
+         "stilForme"
+   }))
+   {     
+    <fieldset>
+        <div class="form-group">
+            <label class="control-label col-md-2">Ime</label>
+            <div class="form-group">
+                @Html.TextBoxFor(model => model.Ime, new { @class = "form-control", rows = "15" })
+                @Html.ValidationMessageFor(model => model.Ime, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <label class="control-label col-md-2">Prezime</label>
+        <div class="form-group">
+            @Html.TextBoxFor(model => model.Prezime, new { @class = "form-control", rows = "15" })
+            @Html.ValidationMessageFor(model => model.Prezime, "", new { @class = "text-danger" })
+        </div>
+
+        <label class="control-label col-md-2">Email</label>
+        <div class="form-group">
+            @Html.TextBoxFor(model => model.Email, new { @class = "form-control", rows = "15" })
+            @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+        </div>
+        <label class="control-label col-md-2">Poruka</label>
+        <div class="form-group">
+            @Html.TextAreaFor(model => model.Poruka, new { @class = "form-control", rows = "15" })
+            @Html.ValidationMessageFor(model => model.Poruka, "", new { @class = "text-danger" })
+        </div>
+
+
+
+
+        <p>
+            Da li nas pisete prvi put:
+            DA: @Html.RadioButtonFor(model => model.Prvi_put, "Da")
+            NE: @Html.RadioButtonFor(model => model.Prvi_put, "Ne")
+        </p>
+
+        <p>
+            Prihvatae uslove koriscenja: @Html.CheckBoxFor(model => model.Uslovi)
+        </p>
+        <input type="submit" value="Posalji poruku" />
+
+         
+
+
+    </fieldset>
+   }
+    <div> 
+</body>
+</html>

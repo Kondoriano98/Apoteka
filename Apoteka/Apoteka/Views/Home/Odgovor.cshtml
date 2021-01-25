@@ -1,0 +1,59 @@
+﻿@model Apoteka.Models.kontakt
+@{
+    Layout = "~/Views/Shared/_MojLayout.cshtml";
+}
+
+@{
+    Layout = "~/Views/Shared/_MojLayout.cshtml";
+}
+
+@{
+    {
+        var poruka = "Dragi" + " " + @Model.Ime + ", hvala vam sto ste nas kontaktirali!";
+
+        <h1>
+            @poruka
+        </h1>
+
+    }
+
+
+}
+
+
+
+<div>
+
+    <table class="table table-dark">
+
+
+        <tr>
+            <th>Ime</th>
+            <th>Prezime</th>
+            <th>
+                Email
+            </th>
+            
+            <th>Poruka</th>
+            <th>Prvi put nam pisete</th>
+
+
+
+        </tr>
+        <tr>
+            <td>@Model.Ime</td>
+            <td>@Model.Prezime</td>
+            <td>@Model.Email</td>
+             
+            <td>@Model.Poruka</td>
+            <th>@Model.Prvi_put</th>
+
+        </tr>
+    </table>
+   @Apoteka.Helperi.helperi.MyHelper("../Content/slike/okay.jpg", "Vasa poruka je uspesno aploudovana!")
+
+  
+
+
+</div>
+ 

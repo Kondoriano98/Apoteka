@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BazaApotekaModelStoreContainer" CdmEntityContainer="BazaApotekaEntities">
+    <EntitySetMapping Name="Leks">
+      <EntityTypeMapping TypeName="BazaApotekaModel.Lek">
+        <MappingFragment StoreEntitySet="Lek">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Naziv" ColumnName="Naziv" />
+          <ScalarProperty Name="Proizvodjac" ColumnName="Proizvodjac" />
+          <ScalarProperty Name="Uputstvo" ColumnName="Uputstvo" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

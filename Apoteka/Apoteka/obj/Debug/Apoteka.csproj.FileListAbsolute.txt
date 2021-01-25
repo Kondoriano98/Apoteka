@@ -1,0 +1,112 @@
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Apoteka.dll.config
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Apoteka.dll
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Apoteka.pdb
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Antlr3.Runtime.dll
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\EntityFramework.dll
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\EntityFramework.SqlServer.dll
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.dll
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Security.dll
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Newtonsoft.Json.dll
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Owin.dll
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\System.Web.Helpers.dll
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\System.Web.Mvc.dll
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\System.Web.Optimization.dll
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\System.Web.Razor.dll
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\System.Web.WebPages.dll
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\System.Web.WebPages.Razor.dll
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\WebGrease.dll
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\System.Web.Helpers.xml
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\System.Web.Mvc.xml
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\System.Web.Optimization.xml
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\System.Web.Razor.xml
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\System.Web.WebPages.xml
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\System.Web.WebPages.Razor.xml
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Antlr3.Runtime.pdb
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Newtonsoft.Json.xml
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\EntityFramework.xml
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\EntityFramework.SqlServer.xml
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.xml
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Security.xml
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\obj\Debug\Apoteka.csprojResolveAssemblyReference.cache
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\obj\Debug\Apoteka.dll
+C:\Users\Joker\Desktop\IpsitPSA\Apoteka\Apoteka\obj\Debug\Apoteka.pdb
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Apoteka.dll.config
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Apoteka.dll
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Apoteka.pdb
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Antlr3.Runtime.dll
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\EntityFramework.dll
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\EntityFramework.SqlServer.dll
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.dll
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Security.dll
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Newtonsoft.Json.dll
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Owin.dll
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\System.Web.Helpers.dll
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\System.Web.Mvc.dll
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\System.Web.Optimization.dll
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\System.Web.Razor.dll
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\System.Web.WebPages.dll
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\System.Web.WebPages.Razor.dll
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\WebGrease.dll
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\System.Web.Helpers.xml
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\System.Web.Mvc.xml
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\System.Web.Optimization.xml
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\System.Web.Razor.xml
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\System.Web.WebPages.xml
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\System.Web.WebPages.Razor.xml
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Antlr3.Runtime.pdb
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Newtonsoft.Json.xml
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\EntityFramework.xml
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\EntityFramework.SqlServer.xml
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.xml
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Security.xml
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\obj\Debug\Apoteka.csprojAssemblyReference.cache
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CoreCompileInputs.cache
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\obj\Debug\Apoteka.csproj.CopyComplete
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\obj\Debug\Apoteka.dll
+C:\Users\Joker\Desktop\School\Treca Godina\PSA\IpsitPSA\Apoteka\Apoteka\obj\Debug\Apoteka.pdb

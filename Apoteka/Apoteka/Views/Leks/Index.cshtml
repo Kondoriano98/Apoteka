@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Apoteka.Models.Lek>
+@{
+    Layout = "~/Views/Shared/_MojLayout.cshtml";
+}
+@{
+    ViewBag.Title = "Pocetna";
+}
+<html>
+<head>
+    <link href="~/Content/style.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+<body>
+    <h1>Ovde mozete sve lekove koji su uneti u bazu.</h1>
+    <br />
+    <p>
+        @Html.ActionLink("Kreirajte novi", "Create")
+    </p>
+    <table class="table bg-dark text-white">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Naziv)
+            </th>  
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Naziv)
+                </td>
+                <td>
+                    @Html.ActionLink("Izmena", "Edit", new { id = item.Id }) |
+                    @Html.ActionLink("Detalji", "Details", new { id = item.Id }) |
+                    @Html.ActionLink("Brisanje", "Delete", new { id = item.Id })
+                </td>
+            </tr>
+        }
+    </table>
+</body>
+</html>

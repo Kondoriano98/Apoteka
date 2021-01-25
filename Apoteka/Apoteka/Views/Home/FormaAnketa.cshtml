@@ -1,0 +1,144 @@
+﻿@model Apoteka.Models.anketa
+@{
+    Layout = "~/Views/Shared/_MojLayout.cshtml";
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>FormaAnketa</title>
+</head>
+<body>
+    
+
+    @using (Html.BeginForm("FormaAnketa", "Home", FormMethod.Post, new
+   {
+       @class =
+           "stilForme"
+   }))
+    {
+        <fieldset>
+            <div class="form-group">
+                <label class="control-label col-md-2">Ime</label>
+                <div class="form-group">
+                    @Html.TextBoxFor(model => model.Ime, new { @class = "form-control", rows = "15" })
+                    @Html.ValidationMessageFor(model => model.Ime, "", new { @class = "text-danger" })
+                </div>
+            </div>
+
+    
+
+            <label class="control-label col-md-2">Email</label>
+            <div class="form-group">
+                @Html.TextBoxFor(model => model.Email, new { @class = "form-control", rows = "15" })
+                @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+            </div>
+
+            <label class="control-label col-md-2">Godiste:</label>
+            <div class="form-group">
+                @Html.TextBoxFor(model => model.Broj, new { @class = "form-control", rows = "15" })
+                @Html.ValidationMessageFor(model => model.Broj, "", new { @class = "text-danger" })
+            </div>
+
+            
+ 
+
+
+
+
+
+
+
+            <div class="form-group">
+               
+
+                @Html.DropDownListFor(model => model.Pitanje1, new[]
+               {
+               new SelectListItem()
+               {
+                   Text="Pet ili vise puta.", Value = "Pet ili vise puta."
+               },
+               new SelectListItem()
+               {
+                   Text="Dva do tri puta.", Value="Dva do tri puta."
+               },
+                  new SelectListItem()
+               {
+                   Text="Jednom ili nikada.", Value="Jednom ili nikada."
+               },
+
+               }, "Koliko puta dnevno posecujete nas sajt")
+                <br> <br>
+
+
+                <div class="form-group">
+
+                    @Html.DropDownListFor(model => model.Pitanje2, new[]
+               {
+               new SelectListItem()
+               {
+                   Text="Da", Value = "Da"
+               },
+               new SelectListItem()
+               {
+                   Text="Ne", Value="Ne"
+               },
+                  new SelectListItem()
+               {
+                   Text="Delimicno", Value="Delimicno"
+               },
+
+               }, "Smatrate li da su informacije koje pruzamo verodostojne")
+                    <br> <br>
+
+
+                    <div class="form-group">
+
+                        @Html.DropDownListFor(model => model.Pitanje3, new[]
+               {
+               new SelectListItem()
+               {
+                   Text="Samo jednom", Value = "Samo jednom"
+               },
+               new SelectListItem()
+               {
+                   Text="Nekoliko puta", Value="Nekoliko puta"
+               },
+                  new SelectListItem()
+               {
+                   Text="Svaki put", Value="Svaki put"
+               },
+
+               }, "Koliko puta vam se pojavila greska na sajtu?")
+                        <br> <br>
+
+
+
+
+
+
+                        <p>
+                            Da li zelite da anketa bude anonimna:
+                            DA: @Html.RadioButtonFor(model => model.Anonimno, "Da")
+                            NE: @Html.RadioButtonFor(model => model.Anonimno, "Ne")
+                        </p>
+                        <p>
+                            Molimo vas prihvatite uslove koriscenja pre nastavka! @Html.CheckBoxFor(model => model.Uslovi)
+                        </p>
+
+
+
+
+                        
+                    </div>
+            <input type="submit" value="Zavrsi anketu" />
+
+
+        </fieldset>
+    }
+
+
+
+</body>
+</html>
